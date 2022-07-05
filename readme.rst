@@ -36,6 +36,7 @@ Usage
 This package is compatible from Python 3.8 to Python 3.10.
 
 To install, run
+
 .. code-block :: console
 
     pip install https://github.com/soupless/dictionary.git
